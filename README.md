@@ -8,7 +8,7 @@
 > our (expanding!) API. Consider the public API of this package a little
 > unstable as we work towards a v1.0.
 
-A Go library for interacting with
+A Go library for interacting with1
 [Cloudflare's API v4](https://api.cloudflare.com/). This library allows you to:
 
 - Manage and automate changes to your DNS records within Cloudflare
